@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Pandey</h1>
-<h3 align="center">A passionate developer from BHARAT </h3>
+<h3 align="center">  A passionate developer from भारत ||
+ </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif">
 
