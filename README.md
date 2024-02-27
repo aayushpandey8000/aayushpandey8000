@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **OpenAI,Data Analytics, LLMS Models.**
+- 👯 I’m looking to collaborate on **OpenAI,Data Analytics, Web Development, LLMS Models.**
 
 - 👨‍💻 All of my projects are available at [https://aayu-portfolio.netlify.app/](https://aayu-portfolio.netlify.app/)
 
-- 💬 Ask me about **OpenAI, Langchain, Large Language Models, Data Analytics**
+- 💬 Ask me about **OpenAI, Langchain, Large Language Models, Data Analytics, Web Development.**
 
 - 📫 How to reach me **aayushpandey8000@gmail.com**
 
