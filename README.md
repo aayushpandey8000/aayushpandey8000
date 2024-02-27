@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Pandey</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=85af15397c77c0f6&sxsrf=ACQVn0_00S8185l18sPv49pSqtADLaWnMg:1709037060911&q=Coding+gif+for+GitHub&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjxrrGXw8uEAxVulFYBHZkyD6sQ0pQJegQIDBAB&biw=1536&bih=711&dpr=1.25#imgrc=CVLQvplLvZ78OM">
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif">
 
 - 🔭 I’m currently working on **LLMS**
 
@@ -10,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aayu-portfolio.netlify.app/](https://aayu-portfolio.netlify.app/)
 
-- 💬 Ask me about **OpenAI, Langchain,Web Development, Large Language Models, Data Analytics**
+- 💬 Ask me about **OpenAI, Langchain, Web Development, Large Language Models, Data Analytics**
 
 - 📫 How to reach me **aayushpandey8000@gmail.com**
 
