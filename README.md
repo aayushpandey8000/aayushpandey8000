@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif">
 
 - 🔭 I’m currently working on **LLMS**
-- 🌱 I’m currently learning **AZURE**
+- 🌱 I’m currently learning **JIRA,AZURE**
 - 👯 I’m looking to collaborate on **Product Analyst, Business Analyst,OpenAI,Data Analytics, LLMS Models.**
 - 👨‍💻 All of my projects are available at [https://aayu-portfolio.netlify.app/](https://aayu-portfolio.netlify.app/)
 - 💬 Ask me about **OpenAI, Langchain, Large Language Models, Data Analytics**
