@@ -6,8 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif">
 
 - 🔭 I’m currently working on **LLMS**
-- 🌱 I’m currently learning **AWS**
-- 👯 I’m looking to collaborate on **OpenAI,Data Analytics,,Web Development LLMS Models.**
+- 🌱 I’m currently learning **AZURE**
+- 👯 I’m looking to collaborate on **Product Analyst, Business Analyst,OpenAI,Data Analytics,,Web Development LLMS Models.**
 - 👨‍💻 All of my projects are available at [https://aayu-portfolio.netlify.app/](https://aayu-portfolio.netlify.app/)
 - 💬 Ask me about **OpenAI, Langchain, Web Development, Large Language Models, Data Analytics**
 - 📫 How to reach me **aayushpandey8000@gmail.com**
